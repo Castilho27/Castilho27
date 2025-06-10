@@ -42,8 +42,8 @@ Atualmente, estou me aprofundando em:
 
 ### 🤝 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link para o seu LinkedIn])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
+[![Email](mailto:lubertanhe@gmail.com)
 
 ---
 
