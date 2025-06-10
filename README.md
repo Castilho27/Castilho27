@@ -1,29 +1,37 @@
-# Olá, sou o Lucas Castilho! 👋
+# Olá, sou o Lucas Castilho! 
 
-Sou um **Future Full Stack Developer** e estudante de **Ciência da Computação** no **Instituto Mauá de Tecnologia (IMT)**. Tenho 18 anos e sou apaixonado por tecnologia, pesquisa e inovação.
+Sou um **Future Full Stack Developer** e estudante de **Ciência da Computação** no **Instituto Mauá de Tecnologia (IMT)**. Sou apaixonado por tecnologia, pesquisa e inovação, buscando constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
-Minha jornada na computação é impulsionada pela curiosidade e pela busca constante por novos desafios. Tenho grande interesse em construir soluções robustas e eficientes, explorando o universo do desenvolvimento web de ponta a ponta.
+Minha jornada é focada em transformar ideias em soluções reais, explorando as diversas camadas do desenvolvimento de software e a inteligência dos dados.
 
 ---
 
-### 💻 Minhas Habilidades e Interesses
+### O que me move
 
-* **Linguagens de Programação:** Python, Java, SQL, Clojure (em aprimoramento)
-* **Áreas de Foco:**
-    * **Desenvolvimento Full Stack:** Construindo aplicações completas, do frontend ao backend.
-    * **Dados:** Telemetria de Dados, Business Analytics e insights baseados em dados.
-* **Buscando:** Oportunidades para aplicar e expandir minhas habilidades, especialmente em estágios na área de TI.
+* **Desenvolvimento Full Stack:** Construindo aplicações completas e eficientes, do frontend ao backend.
+* **Ciência de Dados e Analytics:** Aprofundando em Telemetria de Dados, Business Analytics e insights estratégicos.
+* **Aprendizado Contínuo:** Sempre em busca de novas tecnologias e metodologias para aprimorar minhas competências.
 
-<!--
-**Castilho27/Castilho27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Minhas Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Minhas linguagens e tecnologias de foco incluem:
+
+* **Linguagens:** Python, Java, SQL, Clojure (em aprimoramento contínuo).
+* **Frontend:** **React.js**, HTML, CSS, JavaScript.
+* **Bancos de Dados:** SQL, MySQL.
+---
+
+### Em busca de...
+
+Estou ativamente buscando **oportunidades de estágio em TI** que me permitam aplicar meus conhecimentos, crescer profissionalmente e colaborar com equipes inovadoras. Tenho grande entusiasmo em aprender e contribuir em um ambiente dinâmico.
+
+---
+
+### Conecte-se Comigo
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-castilho-43bb28354/) 
+| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+
