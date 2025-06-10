@@ -1,6 +1,6 @@
 # Olá, sou o Lucas Castilho! 
 
-Sou um **Futuro Full Stack Developer** e estudante de **Ciência da Computação** no **Instituto Mauá de Tecnologia (IMT)**. Sou apaixonado por tecnologia, pesquisa e inovação, buscando constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
+Sou um **Futuro Desenvolvedor Full Stack** e estudante de **Ciência da Computação** no **Instituto Mauá de Tecnologia (IMT)**. Sou apaixonado por tecnologia, pesquisa e inovação, buscando constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
 Minha jornada é focada em transformar ideias em soluções reais, explorando as diversas camadas do desenvolvimento de software e a inteligência dos dados.
 
