@@ -1,4 +1,4 @@
-# Lucas Castilho
+## 👨🏻‍💻  Lucas Castilho
 
 `Full Stack Developer | Data Telemetry & Business Analytics`
 
@@ -11,17 +11,16 @@ Volunteer for the **Brasil Digital para Todos** program.
 ### **Stacks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,ts,nodejs,nextjs,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,ts,nextjs,docker,git" />
 </p>
 
 ---
 
 ### **Connect with me**
 
-Reach me out here: [lubertanhe@gmail.com](mailto:lubertanhe@gmail.com)
 
-* [LinkedIn](Link to your LinkedIn profile)
-* [GitHub](Link to your GitHub profile)
+* [LinkedIn](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
+* [Email](lubertanhe@gmail.com)
 
 ---
 
