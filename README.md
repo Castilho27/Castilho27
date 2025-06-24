@@ -19,7 +19,7 @@ Volunteer for the **Brasil Digital para Todos** program.
 ### **Connect with me**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
 </p>
 
 ---
