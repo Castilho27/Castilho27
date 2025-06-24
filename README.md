@@ -1,12 +1,17 @@
-👨🏻‍💻 Lucas Castilho
+**👨🏻‍💻 Lucas Castilho**
 
-""Full Stack Developer | Data Telemetry & Business Analytics""
+**Full Stack Developer | Data Telemetry & Business Analytics**
 
 Currently pursuing a Bachelor's Degree in Computer Science at Instituto Mauá de Tecnologia
 
 Passionate about hiking, research, technology, and turning ideas into code.
 
 Volunteer for the Brasil Digital para Todos program.
+
+
+---
+
+### Stacks 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
