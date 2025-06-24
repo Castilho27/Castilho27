@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Lucas Castilho
+# 👨🏻‍💻 Lucas Castilho
 
 **Full Stack Developer | Data Telemetry & Business Analytics**
 
