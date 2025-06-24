@@ -20,10 +20,13 @@ Volunteer for the **Brasil Digital para Todos** program.
 </p>
 
 **Connect with me:**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com)
 
 ---
 **Languages**
 🇧🇷 Native Portuguese
+
 🇺🇸 Intermediary English
