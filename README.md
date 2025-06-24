@@ -9,9 +9,6 @@ Passionate about hiking, research, technology, and turning ideas into code.
 Volunteer for the **Brasil Digital para Todos** program.
 
 
-
----
-
 ## Stacks 
 
 <p align="left">
@@ -26,10 +23,10 @@ Volunteer for the **Brasil Digital para Todos** program.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com)
 
 
+---
