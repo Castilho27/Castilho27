@@ -6,14 +6,6 @@ Currently pursuing a Bachelor's Degree in Computer Science at **Instituto Mauá 
 Passionate about hiking, research, technology, and turning ideas into code.
 Volunteer for the **Brasil Digital para Todos** program.
 
-# 👨🏻‍💻 Lucas Castilho  
-
-`Full Stack Developer | Data Telemetry & Business Analytics`
-
-Currently pursuing a Bachelor's Degree in Computer Science at **Instituto Mauá de Tecnologia**.
-Passionate about hiking, research, technology, and turning ideas into code.
-Volunteer for the **Brasil Digital para Todos** program.
-
 ---
 
 ### **Stacks**
@@ -41,5 +33,5 @@ Volunteer for the **Brasil Digital para Todos** program.
 <p align="left">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="Brazilian Flag" width="20" height="15"/> Native Portuguese
   <br>
-  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="US Flag" width="20" height="15"/> Advanced English
+  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="US Flag" width="20" height="15"/> Intermediary English
 </p>
