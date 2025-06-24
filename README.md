@@ -1,4 +1,4 @@
-## 👨🏻‍💻  Lucas Castilho
+# Lucas Castilho
 
 `Full Stack Developer | Data Telemetry & Business Analytics`
 
@@ -18,9 +18,8 @@ Volunteer for the **Brasil Digital para Todos** program.
 
 ### **Connect with me**
 
-
-* [LinkedIn](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
-* [Email](lubertanhe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com)
 
 ---
 
