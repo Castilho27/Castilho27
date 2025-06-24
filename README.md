@@ -1,31 +1,24 @@
-# Olá, sou o Lucas Castilho! 
+👨🏻‍💻 Lucas Castilho
 
-Sou um **Futuro Desenvolvedor Full Stack** e estudante de **Ciência da Computação** no **Instituto Mauá de Tecnologia (IMT)**. Sou apaixonado por tecnologia, pesquisa e inovação, buscando constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
+""Full Stack Developer | Data Telemetry & Business Analytics""
 
-Minha jornada é focada em transformar ideias em soluções reais, explorando as diversas camadas do desenvolvimento de software e a inteligência dos dados.
+Currently pursuing a Bachelor's Degree in Computer Science at Instituto Mauá de Tecnologia
 
----
+Passionate about hiking, research, technology, and turning ideas into code.
 
-### O que me move
+Volunteer for the Brasil Digital para Todos program.
 
-* **Desenvolvimento Full Stack:** Construindo aplicações completas e eficientes, do frontend ao backend.
-* **Ciência de Dados e Analytics:** Aprofundando em Telemetria de Dados, Business Analytics e insights estratégicos.
-* **Aprendizado Contínuo:** Sempre em busca de novas tecnologias e metodologias para aprimorar minhas competências.
-
----
-
-### Minhas Ferramentas
-
-Minhas linguagens e tecnologias de foco incluem:
-
-* **Linguagens:** Python, Java, SQL, Clojure (em aprimoramento contínuo).
-* **Frontend:** **React.js**, HTML, CSS, JavaScript.
-* **Bancos de Dados:** SQL, MySQL.
----
-
-### Em busca de...
-
-Estou ativamente buscando **oportunidades de estágio em TI** que me permitam aplicar meus conhecimentos, crescer profissionalmente e colaborar com equipes inovadoras. Tenho grande entusiasmo em aprender e contribuir em um ambiente dinâmico.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="Clojure" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
