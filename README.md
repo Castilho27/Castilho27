@@ -1,7 +1,4 @@
 # 👨🏻‍💻 Lucas Castilho
-<p align="left">
-</p>
-
 `Full Stack Developer | Data Telemetry & Business Analytics`
 
 Currently pursuing a Bachelor's Degree in Computer Science at Instituto Mauá de Tecnologia
@@ -9,8 +6,7 @@ Passionate about hiking, research, technology, and turning ideas into code.
 Volunteer for the **Brasil Digital para Todos** program.
 
 
-## Stacks 
-
+**Stacks**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -23,10 +19,11 @@ Volunteer for the **Brasil Digital para Todos** program.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-
-## Conecte-se Comigo
+**Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com)
 
-
 ---
+**Languages**
+🇧🇷 Native Portuguese
+🇺🇸 Intermediary English
