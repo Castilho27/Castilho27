@@ -5,6 +5,7 @@
 Currently pursuing a Bachelor's Degree in Computer Science at **Instituto Mauá de Tecnologia**.
 Passionate about hiking, research, technology, and turning ideas into code.
 Volunteer for the **Brasil Digital para Todos** program.
+
 I'm actively seeking internship opportunities within the Tech and Research market to expand my network and hone my skills through impactful projects.
 
 ---
