@@ -18,8 +18,9 @@ Volunteer for the **Brasil Digital para Todos** program.
 
 ### **Connect with me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-castilho-43bb28354/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubertanhe@gmail.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,nodejs,nextjs,ts,docker,git" />
+</p>
 
 ---
 
