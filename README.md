@@ -3,7 +3,7 @@
 **Full Stack Developer | Data Telemetry & Business Analytics**
 
 Currently pursuing a Bachelor's Degree in Computer Science at Instituto Mauá de Tecnologia
-Passionate about hiking, research, technology, and turning ideas into code.
+Passionate about hiking, research, technology, and turning ideas into code.                                                                                                                                          
 Volunteer for the **Brasil Digital para Todos** program.
 
 
