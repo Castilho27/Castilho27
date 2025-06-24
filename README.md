@@ -31,6 +31,6 @@ Volunteer for the **Brasil Digital para Todos** program.
 
 ---
 
-**Languages**
+### **Languages**
 🇧🇷 Native Portuguese
 🇺🇸 Advanced English
