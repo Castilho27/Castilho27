@@ -11,7 +11,7 @@ Volunteer for the **Brasil Digital para Todos** program.
 ### **Stacks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,nextjs,ts,nodejs,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,clojure,nodejs,nextjs,ts,docker,git" />
 </p>
 
 ---
