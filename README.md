@@ -21,7 +21,7 @@ I'm actively seeking internship opportunities within the Tech and Research marke
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="[![Clojure.png](https://i.postimg.cc/rwbyQw4F/Clojure.png)](https://postimg.cc/NK6w0YbW)" width="40" height="40"/>
+  <img src="https://postimg.cc/Hj4mHbsT" width="40" height="40"/>
 </p>
 
 ---
