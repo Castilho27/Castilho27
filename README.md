@@ -21,7 +21,7 @@ I'm actively seeking internship opportunities within the Tech and Research marke
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg](https://www.google.com/search?sca_esv=04c8d2cfac6bdb51&sxsrf=AE3TifPXPEoRQ2ktx593iJk-8c5wziFeNA:1750971066527&q=clojure+icon&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJRAdFPaX_SSIJt7xYUfpm-75lA8Uar42yNWdqGuJlUAnl4VoyIc9TvIZo00AnzLuo73CKalUXQ8cWgmottQs4BXh0bU9aRqLPpzWejdabGFvk-MuP83mUuK41Ro6dMLX7Czip9A&sa=X&ved=2ahUKEwi5wLrD-4-OAxVfqpUCHYXfCHUQtKgLKAF6BAgNEAE&cshid=1750971121954725&biw=1440&bih=765&dpr=1#vhid=l1Iu_QCscCrIKM&vssid=mosaic" alt="Clojure" width="40" height="40"/>
+  <img src="https://postimg.cc/NK6w0YbW" width="40" height="40"/>
 </p>
 
 ---
