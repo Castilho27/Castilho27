@@ -37,3 +37,13 @@ I'm actively seeking internship opportunities within the Tech and Research marke
   <br>
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="US Flag" width="20" height="15"/> Intermediary English
 </p>
+
+---
+
+### GitHub Stats & Most Used Languages
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Castilho27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castilho27&layout=compact&theme=radical"/>
+</p>
+
