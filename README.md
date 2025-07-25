@@ -54,7 +54,7 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 ### **GitHub Trophies**
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Castilho27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Castilho27&theme=onedark&no-bg=true&margin-w=10&title=commits,prs,contribs" />
 </p>
 
 
