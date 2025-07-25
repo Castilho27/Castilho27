@@ -54,7 +54,7 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 ### **GitHub Trophies**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castilho27&layout=compact&theme=onedark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Castilho27&theme=github-compact" />
 </p>
 
 
