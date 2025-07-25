@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  
+Pq nn ta mostrando o trofeu do lado? ## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  
 
 `Full Stack Developer | Data Telemetry & Business Analytics`
 
@@ -44,11 +44,10 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 
 ### **GitHub Stats**
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Castilho27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Castilho27&theme=onedark&no-bg=true&margin-w=10&title=commits" />
+  <img src="https://streak-stats.demolab.com?user=Castilho27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
 
 ---
 
