@@ -54,7 +54,7 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 ### **GitHub Trophies**
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Castilho27&theme=github-compact" />
+  ![Visitor Map](https://visitcount.itsvg.in/api?id=Castilho27&label=Profile%20Views&color=12&icon=5&pretty=true)
 </p>
 
 
