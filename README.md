@@ -1,6 +1,7 @@
 ## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  
 
 `Full Stack Developer | Data Telemetry & Business Analytics`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Hi!+I'm+Lucas+Castilho+%F0%9F%91%8B;Full+Stack+Developer+%7C+Business+Analytics+%7C+Research;Let's+build+impactful+solutions!" />
 
 Currently pursuing a Bachelor's Degree in Computer Science at **Instituto Mauá de Tecnologia**.  
 Passionate about hiking, research, technology, and turning ideas into code.  
@@ -46,7 +47,6 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Castilho27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Hi!+I'm+Lucas+Castilho+%F0%9F%91%8B;Full+Stack+Developer+%7C+Business+Analytics+%7C+Research;Let's+build+impactful+solutions!" />
 
 </p>
 
