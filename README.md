@@ -46,16 +46,9 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Castilho27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Castilho27&theme=onedark&no-bg=true&margin-w=10&title=commits" />
 </p>
 
 ---
-
-### **GitHub Trophies**
-
-<p align="left">
-  ![Visitor Map](https://visitcount.itsvg.in/api?id=Castilho27&label=Profile%20Views&color=12&icon=5&pretty=true)
-</p>
-
 
 
