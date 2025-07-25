@@ -1,4 +1,4 @@
-Pq nn ta mostrando o trofeu do lado? ## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  
+## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  
 
 `Full Stack Developer | Data Telemetry & Business Analytics`
 
