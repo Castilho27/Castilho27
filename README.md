@@ -1,5 +1,5 @@
-## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  | 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Hi!+I'm+Lucas+Castilho+%F0%9F%91%8B;Full+Stack+Developer+%7C+Business+Analytics+%7C+Research;Let's+build+impactful+solutions!" />
+## 👨🏻‍💻 Lucas Bertanhe Nunes Castilho  
+
 `Full Stack Developer | Data Telemetry & Business Analytics`
 
 Currently pursuing a Bachelor's Degree in Computer Science at **Instituto Mauá de Tecnologia**.  
