@@ -46,7 +46,6 @@ I'm actively seeking internship opportunities within the Tech and Research marke
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Castilho27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castilho27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
